@@ -25,14 +25,10 @@ img {
   display:flex;
   justify-content: center;
   gap: 52px;
-  align-items: baseline;
 }
 
 .img-txt {
-  align-items: center;
-  display:flex;
   max-width:200px;
-  flex-direction: column;
 }
 
 
